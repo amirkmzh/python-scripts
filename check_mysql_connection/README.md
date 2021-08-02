@@ -30,7 +30,7 @@ change the access permissions:
 finally execute the script: 
 
 ```bash
-    ./mysql_connction_checker
+    ./mysql_connction_checker.py
 ```
 
 ## contribute 
