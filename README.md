@@ -1,8 +1,11 @@
 # python-scripts
 Some of my useful python shell scripts ...
 
+#
 ## check_mysql_connction
 In this script, we have an URI as the input. Then we validate the connection and declare the connection result. You can access more info in the related `README.md` file. 
+
+#
 
 ## looper
 
